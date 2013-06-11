@@ -1,0 +1,37 @@
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by eclipse
+*.class
+#*.jar
+*.dex
+*.cache
+*.apk
+*.ap_
+
+#Ignore specific files build by eclipse
+R.txt
+
+#Ignore specific folders build by eclipse
+bin/
+gen/
+.metadata/
+
+#Ignore files auto creaged
+
+#Ignore files from Ant build
+build.xml
+local.properties
+
+#java ignore
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# eclipse ignore
+# Eclipse
+.classpath
+.project
+.settings/
